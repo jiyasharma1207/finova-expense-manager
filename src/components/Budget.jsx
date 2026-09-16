@@ -69,10 +69,6 @@ function Budget({ transactions }) {
           <h2>Monthly Budget</h2>
           <p>Track your spending limits</p>
         </div>
-
-        <button className="manage-budget-btn">
-          Manage Budget
-        </button>
       </div>
 
       <div className="budget-card">
